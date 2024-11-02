@@ -21,6 +21,7 @@ if running command is disabled on the system then
 
 }
 
+- Extract and open the file 
 - right click Run-me.ps1
 - and press run with powershell
 
