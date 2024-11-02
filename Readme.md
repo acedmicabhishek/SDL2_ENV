@@ -16,8 +16,11 @@ if running command is disabled on the system then
 - open powershel will admin perms 
 - run this command ```Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Scope CurrentUser```
 - click Yes to all ```R```
-- close the windows 
+- close the windows
+- 
+
 }
+
 - right click Run-me.ps1
 - and press run with powershell
 
