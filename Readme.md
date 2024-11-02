@@ -15,7 +15,7 @@ graphics programming
 if running command is disabled on the system then 
 
 {
-- open powershel will admin perms 
+- open powershel with admin privileges 
 - run this command ```Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Scope CurrentUser```
 - click Yes to all ```R```
 - close the windows
