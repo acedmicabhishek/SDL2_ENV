@@ -145,7 +145,7 @@ int main(int argc, char* argv[]) {
 }
 """)
 
-    # Create Makefile
+    # Create Makefile 
     with open(os.path.join(PROJECT_DIR, "Makefile"), "w") as f:
         f.write("""all:
 	g++ -Iinclude/sdl2 -Llib -o main_cpp main.cpp -lmingw32 -lSDL2main -lSDL2
