@@ -14,12 +14,11 @@ graphics programming
 # Usage
 if running command is disabled on the system then 
 
-{
 - open powershel with admin privileges 
 - run this command ```Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Scope CurrentUser```
 - click Yes to all ```R```
-- close the windows
-}
+- close the windows
+
 
 - Extract and open the file 
 - right click Run-me.ps1
@@ -41,5 +40,5 @@ use ```./main_c.exe or ./main_cpp.exe``` to run it
 
 
 # What it does 
-- installs python, MingW, GNU, SDL 
+- installs MingW, GNU, SDL 
 - setup a base project for Graphics Programming.
