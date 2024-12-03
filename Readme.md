@@ -1,4 +1,4 @@
-# [Download](https://github.com/acedmicabhishek/SDL2_ENV/releases/tag/SDL2_ENV)
+# [Download](https://github.com/acedmicabhishek/SDL2_ENV/releases/tag/v1.0.0)
 
 # Description 
 
