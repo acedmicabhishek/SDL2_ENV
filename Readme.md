@@ -19,7 +19,7 @@ if running command is disabled on the system then
 
 - open powershel with admin privileges 
 - run this command ```Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Scope CurrentUser```
-- click Yes to all ```R```
+- click Yes to all ```A```
 - close the windows
 
 
