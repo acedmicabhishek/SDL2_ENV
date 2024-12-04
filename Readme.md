@@ -1,6 +1,7 @@
-# [Download](https://github.com/acedmicabhishek/SDL2_ENV/releases/tag/v1.0.0)
+# [Download here](https://github.com/acedmicabhishek/SDL2_ENV/releases/tag/v1.0.0)
+
 # Tutorial 
-https://youtu.be/wxppTDmckg0
+[![Watch](https://github.com/acedmicabhishek/SDL2_ENV/blob/main/Thumbnail.png)](https://youtu.be/wxppTDmckg0)
 
 # Description 
 
